@@ -1,0 +1,37 @@
+Data Structures (ETCCDS202)
+Unit–1 Assignment: Foundations & Algorithmic Analysis
+
+Name: Neha 
+Roll No: 2501730466
+
+INTRODUCTION
+This assignment implements AERT toolkit using recursion and efficiency analysis.
+
+STACK ADT
+Stack is an Abstract Data Type. Operations push, pop, peek take O(1) time.
+
+FACTORIAL
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+FIBONACCI
+Naive Time: O(2^n)
+Memoized Time: O(n)
+Naive is slow because it recalculates same values.
+
+TOWER OF HANOI
+Moves = 2^n - 1
+Time: O(2^n)
+Space: O(n)
+
+BINARY SEARCH
+Time: O(log n)
+Best: O(1)
+
+PARADIGMS
+Binary Search → Divide & Conquer
+Fibonacci Memo → Dynamic Programming
+Hanoi → Recursion
+
+CONCLUSION
+Recursion and memoization improve efficiency significantly.
