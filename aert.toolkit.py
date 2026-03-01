@@ -112,4 +112,5 @@ if __name__ == "__main__":
     print("\n===== BINARY SEARCH =====")
     arr = [1,3,5,7,9,11,13]
     for key in [7,1,13,2]:
+
         print("Search", key, "->", binary_search(arr, key, 0, len(arr)-1))
